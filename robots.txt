@@ -2,9 +2,6 @@
 User-agent: *
 Allow: /
 
-# Disallow maintenance page
-Disallow: /maintenance.html
-
 # Sitemap location
 Sitemap: https://apexstryke.com/sitemap.xml
 
