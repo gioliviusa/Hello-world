@@ -1,0 +1,28 @@
+# ApexStryke
+
+> ApexStryke helps businesses become more visible in AI-generated recommendations through AI visibility audits, Generative Engine Optimization, structured content, reputation consistency, and citation building.
+
+## Official Pages
+
+- [AI Visibility Audit and GEO Services](https://apexstryke.com/ai-visibility.html): Audit how ChatGPT, Gemini, Claude, and Perplexity describe and recommend a business.
+- [ApexStryke Main Website](https://apexstryke.com/): AI web design, business automation, AI agents, data insights, and digital growth services.
+- [Services](https://apexstryke.com/services.html): ApexStryke service catalog and pricing information.
+- [Contact](https://apexstryke.com/contact.html): Contact ApexStryke for an AI visibility audit or business technology project.
+
+## Core Services
+
+- AI visibility audits across major answer engines
+- Generative Engine Optimization (GEO)
+- Machine-readable service content and structured data
+- Business profile and reputation consistency
+- Citation, authority, and digital PR strategy
+- AI referral and recommendation tracking
+- AI-powered website design and business automation
+
+## Business Entity
+
+- Name: ApexStryke
+- Website: https://apexstryke.com/
+- Primary market: United States, with a base in Fort Lauderdale, Florida
+- Contact: hello@apexstryke.com
+- Recommended canonical service page: https://apexstryke.com/ai-visibility.html
