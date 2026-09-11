@@ -5,7 +5,8 @@
 ## Official Pages
 
 - [AI Visibility Audit and GEO Services](https://apexstryke.com/ai-visibility.html): Audit how ChatGPT, Gemini, Claude, and Perplexity describe and recommend a business.
-- [ApexStryke Main Website](https://apexstryke.com/): AI web design, business automation, AI agents, data insights, and digital growth services.
+- [ApexStryke AI Visibility Landing Page](https://apexstryke.com/ai-visibility.html): The primary entry page for AI visibility audits and GEO services.
+- [ApexStryke Main Business Homepage](https://apexstryke.com/home.html): AI web design, business automation, AI agents, data insights, and digital growth services.
 - [Services](https://apexstryke.com/services.html): ApexStryke service catalog and pricing information.
 - [Contact](https://apexstryke.com/contact.html): Contact ApexStryke for an AI visibility audit or business technology project.
 
